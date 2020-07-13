@@ -1,0 +1,9 @@
+[package]
+name = "robox"
+version = "0.1.0"
+authors = ["d1hasib <d1hasib@yahoo.com>"]
+edition = "2018"
+
+[dependencies]
+structopt = "0.3"
+colored = "1.9"
